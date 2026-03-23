@@ -22,10 +22,11 @@ fi
 APPS=(
   "com.github.IsmaelMartinez.teams_for_linux"
   "com.spotify.Client"
-  "org.signal.Signal"
+
   "com.rtosta.zapzap"
   "com.bitwarden.desktop"
-  "net.cozic.joplin_desktop"
+  "md.obsidian.Obsidian"
+  "com.github.PintaProject.Pinta"
   "com.jgraph.drawio.desktop"
   "org.fedoraproject.MediaWriter"
   "dev.zed.Zed"

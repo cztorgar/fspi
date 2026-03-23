@@ -21,7 +21,7 @@ PACKAGES=(
   okular
   feh
   texlive-scheme-medium
-  gimp
+
   inkscape
   graphviz
   libreoffice
